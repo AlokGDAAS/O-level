@@ -38,3 +38,9 @@ a {
   text-decoration: none;
   color: white;
 }
+
+@media (min-width: 600px) {
+  nav>ul{
+    font-size: 0.1vw;
+  }
+}
